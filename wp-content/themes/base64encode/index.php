@@ -13,9 +13,9 @@ get_header();
   </div>
   <div class="row">
     <div class="col-md-8">
-      <h3 class="pb-4 mb-4 font-italic border-bottom">
+      <h2 class="pb-4 mb-4 font-italic border-bottom">
         Base64 Decoder
-      </h3>
+      </h2>
       <div class="form-group">
 		<textarea class="form-control txt1" id="base64" rows="5" placeholder="Input base64 here..."></textarea>
 		<br>
