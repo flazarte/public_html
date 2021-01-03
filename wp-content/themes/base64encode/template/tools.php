@@ -1,7 +1,7 @@
 
       <div class="card">
 	<article class="card-group-item">
-		<header class="card-header"><h6 class="title">Popular Tools</h6></header>
+		<header class="card-header"><h3 class="title">Popular Tools</h3></header>
 		<div class="filter-content">
 			<div class="list-group list-group-flush">
 			<?php 
