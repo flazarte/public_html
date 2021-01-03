@@ -1,0 +1,32 @@
+/*
+Theme Name: Base64encode Theme
+Theme URI: 
+Author: Ferdinand Lazarte
+Author URI: 
+Description: Base64 encode and decode
+Version: 1.0.0
+Text Domain: 
+*/
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+  }
+
+  @media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+	  font-size: 3.5rem;
+	}
+  }
+
+  .bg-green{
+	background-color: #1d880a!important;
+	border-color: #1d880a!important;
+  }
+
+  .txt1{
+	  height: 200px!important;
+  }
+  
